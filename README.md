@@ -1,7 +1,7 @@
 # Advanced-Web-Development-with-Big-Data
 Advanced Web Development with Big Data
 
-Author: Hakan Akgun
+Author: Hakan
 
 This website searches and compares prices for home buyers. The data scrapes from third party estate agent’s website and save in this website database. The database can store and process large amounts of data. 
 Many different types of technologies are used in this project. In JAVA Part, JSOUP to scrape and parse HTML from a URL, find and extract data, using DOM traversal and manipulate the HTML elements, attributes, and text. Hibernate connects with the database itself and operates via Hibernate Query Language to process the request and then it maps the results to the Java objects. An application is created using session via database connection, which also helps in saving and retrieving the persistent object. The connection closes when the process is completed. 
